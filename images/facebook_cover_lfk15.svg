@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="facebook_cover_lfk15.svg">
+   sodipodi:docname="facebook_cover_lfk15.svg"
+   inkscape:export-filename="/mnt/data/home/mdupont/new3/linuxfestkansas-website/images/facebook_cover_lfk15.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -2088,7 +2091,11 @@
          sodipodi:role="line"
          id="tspan3010"
          x="46.184731"
-         y="1015.6527">March 21-22</tspan></text>
+         y="1015.6527">March 21-22</tspan><tspan
+         sodipodi:role="line"
+         x="46.184731"
+         y="1052.1652"
+         id="tspan20218" /></text>
     <text
        xml:space="preserve"
        style="font-size:29.56238174px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -8708,5 +8715,17 @@
          id="tspan9167"
          sodipodi:role="line"
          style="stroke-width:3;stroke:#3b3b3b;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">2015</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="30"
+       y="114"
+       id="text20214"
+       sodipodi:linespacing="125%"
+       transform="translate(0,737.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan20216"
+         x="30"
+         y="114">http://kansaslinuxfest.us</tspan></text>
   </g>
 </svg>
