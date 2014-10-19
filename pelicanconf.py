@@ -6,8 +6,8 @@ AUTHOR = 'Free/Libre Open Source and Open Knowledge Association of Kansas'
 SITENAME = "Kansas Linux Fest"
 SITELOGO = 'images/klf15logo_compact.png'
 SITEURL = 'http://kansaslinuxfest.us'
-SITELOGO_SIZE = 64
-TIMEZONE = "America/CST"
+SITELOGO_SIZE = 32
+TIMEZONE = "America/Chicago"
 
 DEFAULT_CATEGORY='main'
 
@@ -109,8 +109,6 @@ LOCALE = "C"
 DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 MENUITEMS= ()
-FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 LINKS = (('FSF', 'http://ww.fsf.org'),
          ('Free/Libre Open Source and Open Knowledge Association of Kansas', "http://openkansas.us/"),)
@@ -139,6 +137,8 @@ EXTRA_PATH_METADATA = {
 
 # static paths will be copied without parsing their contents
 STATIC_PATHS = [
+    'theme/images', 
+    'images',
     'pictures',
     'extra/robots.txt',
     ]
@@ -146,47 +146,34 @@ STATIC_PATHS = [
 # custom page generated with a jinja2 template
 #TEMPLATE_PAGES = {'pages/jinja2_template.html': 'jinja2_template.html'}
 
-TIMEZONE = 'Europe/Paris'
-
 DEFAULT_LANG = u'en'
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+# Feed generation is usually not desired when developin
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+
+#FEED_ALL_ATOM = True
+#CATEGORY_FEED_ATOM = True
+#TRANSLATION_FEED_ATOM = None
+#AUTHOR_FEED_ATOM = None
+#AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
-
-# for elegant
-#MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
-#DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives'))
-#'search' ,  '404'
-#STATIC_PATHS = ['theme/images', 'images']
-#TAG_SAVE_AS = ''
-#CATEGORY_SAVE_AS = ''
-#AUTHOR_SAVE_AS = ''
-
 # plugins :
 PLUGIN_PATHS = ['pelican-plugins']
-#PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post' ]
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post' ]
 
 # settings for plugins
-#SITEMAP = {'format': "xml"}
+SITEMAP = {'format': "xml"}
 
 
+# def sidebar_filter(x):
+#     return x
 
-def sidebar_filter(x):
-    return x
-
-JINJA_FILTERS= {
-    'sidebar' : sidebar_filter
-}
+# JINJA_FILTERS= {
+#     'sidebar' : sidebar_filter
+# }
 
 SHOW_ARTICLE_AUTHOR=False
 GOOGLE_ANALYTICS_UNIVERSAL = 'UA-54320514-2'
