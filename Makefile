@@ -6,7 +6,7 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
-OUTPUTDIR=$(BASEDIR)/output-live
+LIVEOUTPUTDIR=$(BASEDIR)/output-live
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
@@ -61,8 +61,8 @@ html:
 
 pushhtml:
 	$(PELICAN) $(INPUTDIR) -o $(LIVEOUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	cd $(LIVEOUTPUTDIR) && git commit -m 'update-html' -a
-	git commit -m 'update output'
+	cd $(LIVEOUTPUTDIR) && git add * && git commit -m 'update-html' -a
+	git commit -m 'update output' -a
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
