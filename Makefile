@@ -59,6 +59,11 @@ help:
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+qahtml:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	cd $(OUTPUTDIR) && git add * && git commit -m 'update-html qa' -a && git push origin gh-pages
+	git commit -m 'update output qa' -a && git push 
+
 pushhtml:
 	$(PELICAN) $(INPUTDIR) -o $(LIVEOUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	cd $(LIVEOUTPUTDIR) && git add * && git commit -m 'update-html' -a && git push origin gh-pages

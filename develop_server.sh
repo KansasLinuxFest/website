@@ -3,8 +3,8 @@
 # This section should match your Makefile
 ##
 PY=${PY:-python}
-PELICAN=${PELICAN:-pelican}
-PELICANOPTS=
+PELICAN=~/.local/bin/${PELICAN:-pelican}
+PELICANOPTS=--debug
 
 BASEDIR=$(pwd)
 INPUTDIR=$BASEDIR/content
