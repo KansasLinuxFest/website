@@ -6,7 +6,7 @@ AUTHOR = 'Free/Libre Open Source and Open Knowledge Association of Kansas'
 SITENAME = "Kansas Linux Fest"
 SITELOGO = 'images/klf15logo_compact.png'
 SITEURL = 'http://kansaslinuxfest.us'
-SITELOGO_SIZE = 32
+SITELOGO_SIZE = 24
 TIMEZONE = "America/Chicago"
 
 DEFAULT_CATEGORY='main'

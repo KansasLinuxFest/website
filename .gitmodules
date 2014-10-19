@@ -7,3 +7,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:KansasLinuxFest/website-qa.git
+[submodule "output-live"]
+	path = output-live
+	url = git@github.com:KansasLinuxFest/website.git

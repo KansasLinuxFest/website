@@ -2,8 +2,6 @@ Title: Prospectus
 Date: 2014-10-18 09:00
 Category: Main
 
-# Prospectus
-
 ## Information for possible sponsors
 
 ## What is Free/Libre Open Source and Open Knowledge Association of Kansas
