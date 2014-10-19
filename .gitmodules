@@ -1,0 +1,9 @@
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = ./pelican-plugins
+[submodule "pelican-themes"]
+	path = pelican-themes
+	url = ./pelican-themes/
+[submodule "output"]
+	path = output
+	url = git@github.com:KansasLinuxFest/website-qa.git

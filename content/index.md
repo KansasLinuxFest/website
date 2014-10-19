@@ -1,6 +1,8 @@
 Title: Kansas Linux Fest
 Date: 2014-10-18 09:00
-Category: Main
+subtitle: a festival of freely sharing Open Software and Knowledge
+modified : 2014-10-18 18:00
+keywords : Linux, Main
 
 # Kansas Linux Fest
 
@@ -38,7 +40,6 @@ You can join the call for [papers review team]
 
 Follow the event on [lanyrd](http://lanyrd.com/2015/klf15/)
 
-[Follow @OpenSrcKansas](https://twitter.com/OpenSrcKansas)
 
 Follow the Free/Libre Open Source Software and Open Knowledge Association of
 Kansas on Facebook [https://www.facebook.com/flosokaks](https://www.facebook.com/flosokaks)
