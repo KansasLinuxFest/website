@@ -61,8 +61,8 @@ html:
 
 pushhtml:
 	$(PELICAN) $(INPUTDIR) -o $(LIVEOUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	cd $(LIVEOUTPUTDIR) && git add * && git commit -m 'update-html' -a
-	git commit -m 'update output' -a
+	cd $(LIVEOUTPUTDIR) && git add * && git commit -m 'update-html' -a && git push origin gh-pages
+	git commit -m 'update output' -a && git push 
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
