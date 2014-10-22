@@ -11,91 +11,7 @@ TIMEZONE = "America/Chicago"
 
 DEFAULT_CATEGORY='main'
 
-# THEME = 'aboutwilson'
-# THEME = 'basic'
-# THEME = 'bluegrasshopper'
-# THEME = 'blueidea'
-# THEME = 'blue-penguin'
-# THEME = 'bold'
-# THEME = 'bootlex'
-# THEME = 'bootstrap'
-# THEME = 'bootstrap2'
-# THEME = 'bootstrap2-dark'
-# THEME = 'brownstone''
-# THEME = 'BT3-Flat'
-# THEME = 'built-texts'
-# THEME = 'burrito'
-# THEME = 'cebong'
-# THEME = 'chunk'
-# THEME = 'crowsfoot'
-# THEME = 'dev-random'
-# THEME = 'dev-random2'
-# THEME = 'dev-random3'
-# THEME = 'elegant'
-# THEME = 'foundation-default-colours'
-# THEME = 'franticworld'
-# THEME = 'fresh'
-# THEME = 'gum'
-# THEME = 'html5-dopetrope'
-# THEME = 'irfan'
-# THEME = 'iris'
-# THEME = 'jesuislibre'
-# THEME = 'Just-Read'
-# THEME = 'lannisport'
-# THEME = 'lazystrap'
-# THEME = 'lightweight'
-# THEME = 'lovers'
-# THEME = 'maggner-pelican'
-# THEME = 'martyalchin'
-# THEME = 'mnmlist'
-# THEME = 'monospace'
-# THEME = 'neat'
-# THEME = 'new-bootstrap2'
-# THEME = 'nikhil-theme'
-# THEME = 'niu-x2'
-# THEME = 'nmnlist'
-# THEME = 'notebook'
-# THEME = 'notmyidea-cms'
-# THEME = 'notmyidea-cms-fr'
-THEME = 'pelican-bootstrap3'
-# THEME = 'pelican-cait'
-# THEME = 'pelican-iliork'
-# THEME = 'pelican-mockingbird'
-# THEME = 'pelican-simplegrey'
-# THEME = 'pelican-sober'
-# THEME = 'pelicanthemes-generator'
-# THEME = 'pelican-twitchy'
-# THEME = 'pelipress'
-# THEME = 'plumage'
-# THEME = 'pujangga'
-# THEME = 'pure'
-# THEME = 'README.rst'
-# THEME = 'README.rst : not a directory'
-# THEME = 'relapse'
-# THEME = 'Responsive-Pelican'
-# THEME = 'simple-bootstrap'
-# THEME = 'sneakyidea'
-# THEME = 'SoMA'
-# THEME = 'SoMA2'
-# THEME = 'sora'
-# THEME = 'storm'
-# THEME = 'subtle'
-# THEME = 'sundown'
-# THEME = 'svbhack'
-# THEME = 'svbtle'
-# THEME = 'syte'
-# THEME = 'tuxlite_tbs'
-# THEME = 'tuxlite_zf'
-# THEME = 'twenty-html5up'
-# THEME = 'voidy-bootstrap'
-# THEME = 'water-iris'
-# THEME = 'waterspill'
-# THEME = 'waterspill-en'
-# THEME = 'zurb-F5-basic'
-
-
-
-
+THEME = 'pelican-bootstrap3-components'
 
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = True
@@ -162,7 +78,7 @@ DEFAULT_PAGINATION = 10
 
 # plugins :
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post' ]
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post', 'pelican-bootstrap3-components' ]
 
 # settings for plugins
 SITEMAP = {'format': "xml"}
@@ -193,3 +109,5 @@ DISPLAY_BREADCRUMBS=True
 
 
 #publish the website to http://kansaslinuxfest.github.io/website-qa
+
+BOOTSTRAP_COMPONENTS='bootstrap-componentsbootstrap-components/bootstrap-calendar'

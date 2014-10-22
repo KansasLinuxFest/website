@@ -59,6 +59,9 @@ help:
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+debughtml:
+	$(PELICAN) --debug --verbose $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+
 qahtml:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	cd $(OUTPUTDIR) && git add * && git commit -m 'update-html qa' -a && git push origin gh-pages
