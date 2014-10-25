@@ -109,5 +109,6 @@ DISPLAY_BREADCRUMBS=True
 
 
 #publish the website to http://kansaslinuxfest.github.io/website-qa
-
-BOOTSTRAP_COMPONENTS='bootstrap-componentsbootstrap-components/bootstrap-calendar'
+ 
+BOOTSTRAP_COMPONENTS_PATHS= ['bootstrap-components']
+BOOTSTRAP_COMPONENTS=['bootstrap-calendar',]
