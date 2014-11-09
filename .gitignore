@@ -4,3 +4,4 @@
 *~
 cache/
 *.pyc
+pelican.pid srv.pid
