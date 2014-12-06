@@ -17,6 +17,14 @@ THEME = 'pelican-bootstrap3-components'
 RELATIVE_URLS = True
 
 GITHUB_URL = 'https://github.com/KansasLinuxFest/website/'
+from markdown.extensions.codehilite import CodeHiliteExtension
+from markdown.extensions.toc import TocExtension
+MD_EXTENSIONS = [
+    CodeHiliteExtension(css_class='highlight'),
+    TocExtension(permalink=True),
+    'markdown.extensions.extra',
+]
+
 
 DISQUS_SITENAME = "kansaslinuxfest"
 PDF_GENERATOR = False
