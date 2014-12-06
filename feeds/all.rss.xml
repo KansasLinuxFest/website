@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kansas Linux Fest</title><link>http://kansaslinuxfest.us/</link><description></description><atom:link href="http://kansaslinuxfest.us/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 18 Oct 2014 09:00:00 -0500</lastBuildDate><item><title>Kansas Linux Fest</title><link>http://kansaslinuxfest.us/kansas-linux-fest.html</link><description>&lt;p&gt;modified : 2014-10-18 18:00
 keywords : Linux, Main&lt;/p&gt;
-&lt;h2&gt;a Yearly Open Source (Free/Libre Open Source Software) and Open Knowledge Festival for Kansas&lt;/h2&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;img alt="Logo" src="images/klf15logo_twitter_white.png" /&gt;&lt;/p&gt;
+
+&lt;h2 id="a-yearly-open-source-freelibre-open-source-software-and-open-knowledge-festival-for-kansas"&gt;a Yearly Open Source (Free/Libre Open Source Software) and Open Knowledge Festival for Kansas&lt;a class="headerlink" href="#a-yearly-open-source-freelibre-open-source-software-and-open-knowledge-festival-for-kansas" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;img alt="Logo" src="images/klf15logo_twitter_white.png"/&gt;&lt;/p&gt;
 &lt;p&gt;This is a project of the Free/Libre Open Source and Open Knowledge Association
 of Kansas (&lt;a href="http://www.openkansas.us"&gt;www.openkansas.us&lt;/a&gt;) and other
 organizations. We are still working on the board of directors for the
 conference and planning.&lt;/p&gt;
-&lt;h2&gt;Venue&lt;/h2&gt;
+&lt;h2 id="venue"&gt;Venue&lt;a class="headerlink" href="#venue" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;We are very happy to have now confirmed the &lt;a href="http://www.lawrence.lib.ks.us/"&gt;Lawrence Public Library&lt;/a&gt; as our host.&lt;/p&gt;
 &lt;p&gt;Have confirmed the date of 21-22 March 2015.&lt;/p&gt;
 &lt;p&gt;We are looking for sponsors the conference, see our (Prospectus)[/prospectus.html]&lt;/p&gt;
 &lt;p&gt;The Call for papers(Talks) can be found here :
 &lt;a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=41289"&gt;CFPWiki&lt;/a&gt; and
 here &lt;a href="http://lanyrd.com/2015/klf15/calls/qcwkk/"&gt;Lanyrd&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Connect with us&lt;/h3&gt;
+&lt;h3 id="connect-with-us"&gt;Connect with us&lt;a class="headerlink" href="#connect-with-us" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Join the &lt;a href="https://groups.google.com/forum/#!forum/flosokaks"&gt;Mailing List Here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;You can join the call for [papers review team]
 (https://groups.google.com/forum/#!forum/kansas-linux-fest)&lt;/p&gt;
@@ -28,11 +29,11 @@ and-open-knowledge-association-of-kansas"&gt;Linked In&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow the Kansas Linux Fest on Facebook &lt;a href="https://www.facebook.com/kansaslinuxfest"&gt;https://www.facebook.com/kansaslinux
 fest&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Follow the Kansas Linux Fest on &lt;a href="http://hackaday.io/project/1711-Kansas-Linux-Fest"&gt;Hackaday.io&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Graphic Arts and webdesign&lt;/h3&gt;
+&lt;h3 id="graphic-arts-and-webdesign"&gt;Graphic Arts and webdesign&lt;a class="headerlink" href="#graphic-arts-and-webdesign" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;We know that our logo and style is humble, and you are welcome to suggest new
 logos and styles, just fork the pages on github and send us your ideas!&lt;/p&gt;
 &lt;p&gt;You can the logo on Github &lt;a href="https://github.com/KansasLinuxFest/website/tree/master/logo"&gt;Logo On Github&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Chat with us&lt;/h3&gt;
+&lt;h3 id="chat-with-us"&gt;Chat with us&lt;a class="headerlink" href="#chat-with-us" title="Permanent link"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Join #openkansas and #kansaslinuxfest on irc.freenode.net&lt;/p&gt;
 &lt;p&gt;Please use xchat &lt;a href="http://xchat.org/"&gt;http://xchat.org/&lt;/a&gt; or &lt;a href="http://www.silverex.org/download/"&gt;For
 windows&lt;/a&gt;, and if possible and stay on the

@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://kansaslinuxfest.us/index.html</loc>
-<lastmod>2014-10-19T10:15:42-00:00</lastmod>
+<lastmod>2014-12-06T15:50:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://kansaslinuxfest.us/archives.html</loc>
-<lastmod>2014-10-19T10:15:42-00:00</lastmod>
+<lastmod>2014-12-06T15:50:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://kansaslinuxfest.us/tags.html</loc>
-<lastmod>2014-10-19T10:15:42-00:00</lastmod>
+<lastmod>2014-12-06T15:50:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://kansaslinuxfest.us/categories.html</loc>
-<lastmod>2014-10-19T10:15:42-00:00</lastmod>
+<lastmod>2014-12-06T15:50:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://kansaslinuxfest.us/pages/schedule.html</loc>
+<lastmod>2014-10-22T05:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://kansaslinuxfest.us/kansas-linux-fest.html</loc>
 <lastmod>2014-10-18T09:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -54,14 +61,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://kansaslinuxfest.us/category/main.html</loc>
-<lastmod>2014-10-18T09:00:00-06:00</lastmod>
+<lastmod>2014-10-18T09:00:00-05:51</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://kansaslinuxfest.us/author/freelibre-open-source-and-open-knowledge-association-of-kansas.html</loc>
-<lastmod>2014-10-18T09:00:00-06:00</lastmod>
+<lastmod>2014-10-18T09:00:00-05:51</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
