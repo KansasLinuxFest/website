@@ -11,19 +11,22 @@ TIMEZONE = "America/Chicago"
 
 DEFAULT_CATEGORY='main'
 
-THEME = 'pelican-bootstrap3-components'
+#THEME = 'pelican-bootstrap3-components'
+THEME = './pelican-themes/pelican-bootstrap3/'
 
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = True
 
 GITHUB_URL = 'https://github.com/KansasLinuxFest/website/'
-from markdown.extensions.codehilite import CodeHiliteExtension
-from markdown.extensions.toc import TocExtension
-MD_EXTENSIONS = [
-    CodeHiliteExtension(css_class='highlight'),
-    TocExtension(permalink=True),
-    'markdown.extensions.extra',
-]
+
+MD_EXTENSIONS = ['toc(permalink=true)']
+# from markdown.extensions.codehilite import CodeHiliteExtension
+# from markdown.extensions.toc import TocExtension
+# MD_EXTENSIONS = [
+#     CodeHiliteExtension(css_class='highlight'),
+#     TocExtension(permalink=True, anchorlink=True, ),
+#     'markdown.extensions.extra',
+# ]
 
 
 DISQUS_SITENAME = "kansaslinuxfest"
@@ -34,8 +37,8 @@ DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 MENUITEMS= ()
 
-LINKS = (('FSF', 'http://ww.fsf.org'),
-         ('Free/Libre Open Source and Open Knowledge Association of Kansas', "http://openkansas.us/"),)
+#LINKS = (('FSF', 'http://ww.fsf.org'),
+#         ('Free/Libre Open Source and Open Knowledge Association of Kansas', "http://openkansas.us/"),)
 
 
 CC_LICENSE='CC-BY-SA'
@@ -86,7 +89,7 @@ DEFAULT_PAGINATION = 10
 
 # plugins :
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post', 'pelican-bootstrap3-components' ]
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post', 'pelican-bootstrap3-components', 'extract_toc' ]
 
 # settings for plugins
 SITEMAP = {'format': "xml"}

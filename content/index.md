@@ -4,6 +4,8 @@ subtitle: a festival of freely sharing Open Software and Knowledge
 modified : 2014-10-18 18:00
 keywords : Linux, Main
 
+[TOC]
+
 ## a Yearly Open Source (Free/Libre Open Source Software) and Open Knowledge Festival for Kansas
 
 * * *

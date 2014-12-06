@@ -4,8 +4,7 @@
 ##
 PY=${PY:-python}
 PELICAN=~/.local/bin/${PELICAN:-pelican}
-PELICANOPTS=--debug
-
+PELICANOPTS="--debug -t pelican-themes -v"
 BASEDIR=$(pwd)
 INPUTDIR=$BASEDIR/content
 OUTPUTDIR=$BASEDIR/output
