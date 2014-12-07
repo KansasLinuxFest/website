@@ -7,6 +7,7 @@ SITENAME = "Kansas Linux Fest"
 SITELOGO = 'images/klf15logo_compact.png'
 SITEURL = 'http://kansaslinuxfest.us'
 SITELOGO_SIZE = 24
+HIDE_SITENAME = True
 TIMEZONE = "America/Chicago"
 
 DEFAULT_CATEGORY='main'
