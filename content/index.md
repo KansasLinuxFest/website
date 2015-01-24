@@ -10,7 +10,12 @@ keywords : Linux, Main
 
 * * *
 
-![Logo](images/klf15logo_twitter_white.png)
+![Logo](/images/klf15logo_twitter_white.png)
+
+The Kansas Linux Fest will be on March 21-22 and the Lawrence Public Library.
+
+
+## Status
 
 This is a project of the Free/Libre Open Source and Open Knowledge Association
 of Kansas ([www.openkansas.us](http://www.openkansas.us)) and other
