@@ -12,7 +12,7 @@ keywords : Linux, Main
 
 ![Logo](/images/klf15logo_twitter_white.png)
 
-The Kansas Linux Fest will be on March 21-22 and the Lawrence Public Library.
+The Kansas Linux Fest will be on March 21-22 at the Lawrence Public Library.
 
 
 ## Status
@@ -60,7 +60,7 @@ Follow the Kansas Linux Fest on [Hackaday.io](http://hackaday.io/project/1711-Ka
 We know that our logo and style is humble, and you are welcome to suggest new
 logos and styles, just fork the pages on github and send us your ideas!
 
-You can the logo on Github [Logo On Github](https://github.com/KansasLinuxFest/website/tree/master/logo)
+You can find the logo on Github [Logo On Github](https://github.com/KansasLinuxFest/website/tree/master/logo)
 
 ### Chat with us
 
