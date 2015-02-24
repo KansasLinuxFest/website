@@ -101,7 +101,7 @@ PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ica
 
 # settings for plugins
 SITEMAP = {'format': "xml"}
-
+SIDEBAR = "sidebar.html"
 
 # def sidebar_filter(x):
 #     return x
