@@ -6,10 +6,10 @@ Category: Main
 
 ## Information for possible sponsors
 
-## What is Free/Libre Open Source and Open Knowledge Association of Kansas
+## What is Free/Libre Software and Open Knowledge Association of Kansas
 FLOSOKAKS (openkansas.us)?
 
-The Free/Libre Open Source and Open Knowledge Association of Kansas is a new
+The Free/Libre Software and Open Knowledge Association of Kansas is a new
 organization in Kansas started with the goal of promoting Free/Libre Open
 Source Software and Open Knowledge in the state of Kansas.
 
@@ -20,15 +20,15 @@ list of groups that we will contact and invite to participate here :
 [http://www.openkansas.us/hacklabscomputer-clubs](http://www.openkansas.us
 /hacklabscomputer-clubs)
 
-## What is Kansas Linux Fest?
+## What is Kansas GNU/Linux Fest?
 
-Kanas Linux Fest is a new festival of Free/Libre Open Source Software, Open
-Hardware and Open Knowledge.The Kansas Linux Fest will be held for the first
+Kanas GNU/Linux Fest is a new festival of Free/Libre Software, Open
+Hardware and Open Knowledge.The Kansas GNU/Linux Fest will be held for the first
 time on the 21st and 22nd of March 2015, in Lawrence Kansas.
 
 The goal is to establish a yearly conference where members of the F/LOSS
-community can meet and share for the Heartland. The next closest Linux Fest is
-in Ohio and there is no other within 12 hours driving from here.Kansas Linux
+community can meet and share for the Heartland. The next closest GNU/Linux Fest is
+in Ohio and there is no other within 12 hours driving from here.Kansas GNU/Linux
 Fest is organized into two days of talks and workshops in parallel.
 
 We will have talks from F/LOSS experts from around the word, from the region
@@ -37,7 +37,7 @@ and local developers and communities presenting their work.
 ### Demand for a conference
 
 The F/LOSS community continues to grow, and in Kansas and the surrounding
-states there is a large amount of activity. The adoption rate of Linux and
+states there is a large amount of activity. The adoption rate of GNU/Linux and
 F/LOSS software is high. The high demand for people with F/LOSS expertise
 shows that we need to do more here in Kanas to raise awareness about the
 benefits of this great community.
