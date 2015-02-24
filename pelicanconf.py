@@ -13,7 +13,8 @@ TIMEZONE = "America/Chicago"
 DEFAULT_CATEGORY='main'
 
 #THEME = 'pelican-bootstrap3-components'
-THEME = './pelican-themes/pelican-bootstrap3/'
+#THEME = './pelican-themes/pelican-bootstrap3/'
+THEME = './pelican-themes/voidy-bootstrap/'
 
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = True
@@ -38,8 +39,13 @@ DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 MENUITEMS= ()
 
-#LINKS = (('FSF', 'http://ww.fsf.org'),
-#         ('Free/Libre Open Source and Open Knowledge Association of Kansas', "http://openkansas.us/"),)
+LINKS = (
+    ('Lawrence Public Library','http://www.lawrence.lib.ks.us/'),
+    ('Hackaday', 'http://hackaday.io/project/1711-Kansas-Linux-Fest'),
+    ('Free/Libre Open Source and Open Knowledge Association of Kansas', "http://openkansas.us/"),
+    ("FLOSOKAKS mailing list",'https://groups.google.com/forum/#!forum/flosokaks'),
+    ("Kansas Linux Fest Mailing list","https://groups.google.com/forum/#!forum/kansas-linux-fest"),
+)
 
 
 CC_LICENSE='CC-BY-SA'
@@ -48,7 +54,7 @@ SOCIAL = (('twitter', 'https://twitter.com/OpenSrcKansas'),
           ('facebook', 'https://www.facebook.com/kansaslinuxfest'),
           ('github', 'https://github.com/kansaslinuxfest'),
           ('lanyrd','http://lanyrd.com/2015/klf15'),
-      )
+)
 
 
 # global metadata to all the contents
@@ -86,11 +92,12 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 #AUTHOR_FEED_ATOM = None
 #AUTHOR_FEED_RSS = None
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 # plugins :
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post', 'pelican-bootstrap3-components', 'extract_toc' ]
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'googleplus_comments', 'ical', 'pdf', 'share_post',  'extract_toc' ]
+#'pelican-bootstrap3-components',
 
 # settings for plugins
 SITEMAP = {'format': "xml"}
@@ -122,5 +129,6 @@ DISPLAY_BREADCRUMBS=True
 
 #publish the website to http://kansaslinuxfest.github.io/website-qa
  
-BOOTSTRAP_COMPONENTS_PATHS= ['bootstrap-components']
-BOOTSTRAP_COMPONENTS=['bootstrap-calendar',]
+#BOOTSTRAP_COMPONENTS_PATHS= ['bootstrap-components']
+#BOOTSTRAP_COMPONENTS=['bootstrap-calendar',]
+BOOTSTRAP_THEME='cosmo'

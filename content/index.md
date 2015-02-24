@@ -28,7 +28,7 @@ We are very happy to have now confirmed the [Lawrence Public Library](http://www
 
 Have confirmed the date of 21-22 March 2015.
 
-We are looking for sponsors the conference, see our (Prospectus)[/prospectus.html]
+We are looking for sponsors the conference, see our [/prospectus.html](Prospectus)
 
 The Call for papers(Talks) can be found here :
 [CFPWiki](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=41289) and
@@ -36,10 +36,9 @@ here [Lanyrd](http://lanyrd.com/2015/klf15/calls/qcwkk/)
 
 ### Connect with us
 
-Join the [Mailing List Here](https://groups.google.com/forum/#!forum/flosokaks)
+Join the [flosokaks Mailing List for Kansas topics](https://groups.google.com/forum/#!forum/flosokaks)
 
-You can join the call for [papers review team]
-(https://groups.google.com/forum/#!forum/kansas-linux-fest)
+You can join the call for [Kansas Linux Fest Mailing list](https://groups.google.com/forum/#!forum/kansas-linux-fest)
 
 Follow the event on [lanyrd](http://lanyrd.com/2015/klf15/)
 
