@@ -5,11 +5,11 @@ modified : 2014-10-18 18:00
 keywords : Call for Papers, Speakers, Schedule
 Calendar: talks.ics
 
-##What is Kansas Linux Fest?
-Kansas Linux Fest is a new festival of Free/Libre Open Source Software, Open Hardware and Open Knowledge.
+##What is Kansas GNU/Linux Fest?
+Kansas GNU/Linux Fest is a new festival of Free/Libre Software, Open Hardware and Open Knowledge.
 
-The Kansas Linux Fest will be held for the first time on the 21st and 22nd of March 2015, in Lawrence Kansas. The goal is to establish a yearly conference where members of the F/LOSS community can meet and share for the Heartland. The next closest Linux Fest is in Ohio and there is no other within 12 hours driving from here.
-Kansas Linux Fest is organized into two days of talks and workshops in parallel. We will have talks from F/LOSS experts from around the word, from the region and local developers and communities presenting their work.
+The Kansas GNU/Linux Fest will be held for the first time on the 21st and 22nd of March 2015, in Lawrence Kansas. The goal is to establish a yearly conference where members of the F/LOSS community can meet and share for the Heartland. The next closest GNU/Linux Fest is in Ohio and there is no other within 12 hours driving from here.
+Kansas GNU/Linux Fest is organized into two days of talks and workshops in parallel. We will have talks from F/LOSS experts from around the word, from the region and local developers and communities presenting their work.
 
 Speakers should be judged by a committee represented by local and international F/LOSS/OK/OH
 
@@ -21,10 +21,10 @@ Accepted papers will be included in the conference proceedings, which are publis
 
 ## Topics
 
-### FLOSS : Free/Libre Open Source Software
+### FLOSS : Free/Libre Software
 
 We are looking for contributions on current trends and development in all areas
-of Free and Open Source Software,
+of Free/Libre Software,
 
 * trending new F/LOSS software packages
 * FLOSS technologies, specially those taking advantage of being FLOSS
@@ -45,11 +45,11 @@ of Free and Open Source Software,
 * Architecture and design of F/LOSS
 
 #### Operating systems
-* Linux and open source operating system distributions
+* GNU/Linux and Free/Libre operating system distributions
 * kernel module development
 * tuning of operating systems
 * Driver or library development for embedded systems
-* Linux Kernel Development
+* GNU/Linux Kernel Development
 
 #### System Administration
 * Interoperability, portability, scalability of F/LOSS
@@ -71,7 +71,7 @@ of Free and Open Source Software,
 * New Research, tools, vulnerabilities, zero days or exploits.
 * local hackers who find innovative tech/non-tech solutions for real-life challenges.
 * known security issues, case studies, twist to an existing research, tool, vulnerability, exploit or research-in-progress
-* security tools Comprises of open source security tools, exploits, frameworks etc. 
+* security tools Comprises of Free/Libre Software security tools, exploits, frameworks etc. 
 * Security aspects of Software Coding, Configuration, Testing
 * Malware
 
@@ -97,21 +97,21 @@ of Free and Open Source Software,
 #### Mobile/Embedded
 * Embedded Systems (Phones and Tablets, Automotive and Self-driving, Yocto, Wearables)
 * Mobile Operating Systems: ROMs, custom images, custom kernels
-* Open Source apps for mobile devices
-* Open Source app markets and software delivery platforms
-* Software metrics for Open Source mobile software
+* Free/Libre apps for mobile devices
+* Free/Libre app markets and software delivery platforms
+* Software metrics for Free/Libre mobile software
 * Energy efficiency and green solutions in Mobile F/LOSS
-* Software development process for Open Source mobile software
+* Software development process for Free/Libre mobile software
 * Wearable technologies
 * Internet of Everything (Smart Grid, Smart Home, Medical Systems,
   Environmental Systems)
 
 #### Desktop
-* Porting Proprietary Software to Linux desktop
-* Hardware With Linux Preinstalled
+* Porting Proprietary Software to GNU/Linux desktop
+* Hardware With GNU/Linux Preinstalled
 * Wine and Emulators
 * Influencing Proprietary Companies
-* Review of Linux desktop software
+* Review of GNU/Linux desktop software
 
 ### Open Knowledge
 Not just software itself but open knowledge and data are a topic of the conferences.
@@ -147,7 +147,7 @@ Not just software itself but open knowledge and data are a topic of the conferen
 * Education Outreach: How can Wikimedia be used in Education? Can students be
   valuable members of the community?
 
-#### Openstreetmap and FOSS4G (Free and Open Source Software for Geospatial) 
+#### Openstreetmap and FOSS4G (Free/Libre Software for Geospatial) 
 
 * New developments in F/OSS4G and Openstreetmap
 * Emerging Geospatial technologies
@@ -178,7 +178,7 @@ Not just software itself but open knowledge and data are a topic of the conferen
 * The business aspects of Open Hardware
 
 ## Open Society
-How Free/Libre open source software and open knowledge affect and interact
+How Free/Libre software and open knowledge affect and interact
 with society.
 
 #### Innovation
@@ -202,7 +202,7 @@ with society.
 * F/LOSS and Open Knowledge in public sector
 * Non-Governmental Organizations and F/LOSS and Open Knowledge
 * Sustainability business models of F/LOSS and Open Knowledge
-* The Business Of Open Source (e.g. Products, Infrastructure, Services, Upstreaming)
+* The Business Of Free/Libre Software (e.g. Products, Infrastructure, Services, Upstreaming)
 
 #### A11y: Accessibility
 * Access to computing for disabled persons using FLOSS and Open Knowledge
@@ -218,7 +218,7 @@ F/LOSS and Open Knowledge in education
 #### Community 
 * Community Building
 * FLOSS communities, including developer, but also user or business communities
-* reports on Promoting F/LOSS in the region status reports of Linux User Groups and other advocacy groups
+* reports on Promoting F/LOSS in the region status reports of GNU/Linux User Groups and other advocacy groups
 * Collaborative Development
 * Government
 * Governance
