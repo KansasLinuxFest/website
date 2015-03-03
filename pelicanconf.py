@@ -14,14 +14,14 @@ DEFAULT_CATEGORY='main'
 
 #THEME = 'pelican-bootstrap3-components'
 #THEME = './pelican-themes/pelican-bootstrap3/'
-THEME = './pelican-themes/voidy-bootstrap/'
+#THEME = './pelican-themes/voidy-bootstrap/'
 
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = True
 
 GITHUB_URL = 'https://github.com/KansasLinuxFest/website/'
 
-MD_EXTENSIONS = ['toc(permalink=true)']
+MD_EXTENSIONS = ['toc']
 # from markdown.extensions.codehilite import CodeHiliteExtension
 # from markdown.extensions.toc import TocExtension
 # MD_EXTENSIONS = [
@@ -131,4 +131,4 @@ DISPLAY_BREADCRUMBS=True
  
 #BOOTSTRAP_COMPONENTS_PATHS= ['bootstrap-components']
 #BOOTSTRAP_COMPONENTS=['bootstrap-calendar',]
-BOOTSTRAP_THEME='cosmo'
+#BOOTSTRAP_THEME='cosmo'
