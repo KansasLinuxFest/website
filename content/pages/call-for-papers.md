@@ -260,7 +260,7 @@ Our general list for discussion and announcements is here, please sign up there 
 (https://groups.google.com/forum/#!forum/flosokaks)
 
 You can email your submission for a talk proposal to :
-<kansas-linux-fest@googlegroups.com>
+(kansas-linux-fest@googlegroups.com)
 
 ### Licenses
 
