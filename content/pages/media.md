@@ -6,7 +6,7 @@ Category: Main
 
 # Media
 
-!/images/poster_design1.png)
+![Poster](/images/poster_design1.png)
 
 You are invited to change and submit other designs, source code in svg format
 images in png hosted on github.
