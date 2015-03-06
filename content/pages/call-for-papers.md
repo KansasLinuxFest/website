@@ -254,13 +254,13 @@ When registering your talk, please indicate your preferred type of talk, time sl
 
 The talk proposals will be sent to our review board via a mailing list, you can
 join that list if you want to help review papers:
-https://groups.google.com/forum/#!forum/kansas-linux-fest
+(https://groups.google.com/forum/#!forum/kansas-linux-fest)
 
 Our general list for discussion and announcements is here, please sign up there as well :
-https://groups.google.com/forum/#!forum/flosokaks
+(https://groups.google.com/forum/#!forum/flosokaks)
 
 You can email your submission for a talk proposal to :
-kansas-linux-fest@googlegroups.com
+<kansas-linux-fest@googlegroups.com>
 
 ### Licenses
 
