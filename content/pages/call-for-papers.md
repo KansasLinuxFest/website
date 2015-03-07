@@ -254,17 +254,17 @@ When registering your talk, please indicate your preferred type of talk, time sl
 
 The talk proposals will be sent to our review board via a mailing list, you can
 join that list if you want to help review papers:
-https://groups.google.com/forum/#!forum/kansas-linux-fest
+[Forum](https://groups.google.com/forum/#!forum/kansas-linux-fest)
 
 Our general list for discussion and announcements is here, please sign up there as well :
-https://groups.google.com/forum/#!forum/flosokaks
+[OrgForum](https://groups.google.com/forum/#!forum/flosokaks)
 
 You can email your submission for a talk proposal to :
-kansas-linux-fest@googlegroups.com
+[Email](kansas-linux-fest@googlegroups.com)
 
 ### Licenses
 
-We will publish abstract, description and slides on a website and include the abstract in the conference program. We demand that you place your contributions under the Creative Commons Attribution-ShareAlike 4.0 International (http://creativecommons.org/licenses/by-sa/4.0/) license (or a more lenient license.)
+We will publish abstract, description and slides on a website and include the abstract in the conference program. We demand that you place your contributions under the Creative Commons Attribution-ShareAlike 4.0 International [cc-by-sa-4.0](http://creativecommons.org/licenses/by-sa/4.0/) license (or a more lenient license.)
 
 Unless another license is noted, we will assume that your contribution is under this license. If you want to place your works under a less restrictive license,
 please note so with your submission.
@@ -278,11 +278,11 @@ here [Lanyrd](http://lanyrd.com/2015/klf15/calls/qcwkk/)
 
 ### Credits
 Parts of the CFP have been copied from the following sites
-* https://www.froscon.de/en/cfp/ FROSCON
-* http://www.oss2015.org/call-for-papers/ OSSCON15
-* http://blog.okfn.org/2012/06/29/call-for-papers-open-data-academic-research-at-okfest/ OKFEST
-* http://oss2014.case.unibz.it/en/cfp.html 
-* https://2015.foss4g-na.org/cfp
-* http://blogs.law.harvard.edu/longestnow/wikimania-call-for-papers/\
-* https://wikimania2015.wikimedia.org/wiki/Submissions
-* http://events.linuxfoundation.org/events/linuxcon-north-america/program/cfp
+* [FROSCON](https://www.froscon.de/en/cfp/) 
+* [OSSCON15](http://www.oss2015.org/call-for-papers/)
+* [OKFEST](http://blog.okfn.org/2012/06/29/call-for-papers-open-data-academic-research-at-okfest/)
+* [oss2014](http://oss2014.case.unibz.it/en/cfp.html )
+* [foss4g-na](https://2015.foss4g-na.org/cfp)
+* [wikimania](http://blogs.law.harvard.edu/longestnow/wikimania-call-for-papers/)
+* [wikimania2015](https://wikimania2015.wikimedia.org/wiki/Submissions)
+* [linuxcon](http://events.linuxfoundation.org/events/linuxcon-north-america/program/cfp)
