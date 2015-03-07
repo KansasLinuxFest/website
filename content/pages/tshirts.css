@@ -1,0 +1,10 @@
+p {
+	display: inline-block;
+}
+
+.design-center {
+	display: block;
+	width: 300px;
+	height: 150px;
+	text-align: center;
+}
