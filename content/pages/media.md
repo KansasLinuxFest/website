@@ -20,6 +20,7 @@ designed by @chris-welchhans https://www.behance.net/ChrisWelchhans
 ![TeeShirt1](/images/kslinux2015_01.png)
 ![TeeShirt2](/images/kslinux2015_02.png)
 ![TeeShirt3](/images/kslinux2015_03.png)
+![TeeShirt4](/images/kslinux2015_04.png)
 
 [Sources](https://github.com/KansasLinuxFest/website/tree/master/content/images)
 
