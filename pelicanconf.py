@@ -132,3 +132,5 @@ DISPLAY_BREADCRUMBS=True
 #BOOTSTRAP_COMPONENTS_PATHS= ['bootstrap-components']
 #BOOTSTRAP_COMPONENTS=['bootstrap-calendar',]
 #BOOTSTRAP_THEME='cosmo'
+PDF_STYLE_PATH=''
+PDF_STYLE='twelvepoint'

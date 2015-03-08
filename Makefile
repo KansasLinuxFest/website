@@ -68,6 +68,7 @@ qahtml:
 	git commit -m 'update output qa' -a && git push 
 
 pushhtml:
+	cd $(LIVEOUTPUTDIR) && git reset --hard
 	$(PELICAN) $(INPUTDIR) -o $(LIVEOUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 	cd $(LIVEOUTPUTDIR) && git add * && git commit -m 'update-html' -a && git push origin gh-pages
 	git commit -m 'update output' -a && git push 
