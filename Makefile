@@ -1,4 +1,5 @@
 export PATH := $(HOME)/.local/bin:$(PATH)
+export PYTHONPATH := $(HOME)/experiments/kansaslinuxfest/pelican
 PY?=python
 PELICAN?=pelican
 PELICANOPTS=
@@ -67,11 +68,6 @@ qahtml:
 	cd $(OUTPUTDIR) && git add * && git commit -m 'update-html qa' -a && git push origin gh-pages
 	git commit -m 'update output qa' -a && git push 
 
-pushhtml:
-	cd $(LIVEOUTPUTDIR) && git reset --hard
-	$(PELICAN) $(INPUTDIR) -o $(LIVEOUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
-	cd $(LIVEOUTPUTDIR) && git add * && git commit -m 'update-html' -a && git push origin gh-pages
-	git commit -m 'update output' -a && git push 
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -128,3 +124,9 @@ github: publish
 
 debug_pelican:
 	PYTHONPATH=../pelican/:~/experiments/jinja2/  ~/.local/bin/pelican -s pelicanconf.py -t pelican-themes/pelican-bootstrap3 -v -D content/
+
+pushhtml:
+	cd $(LIVEOUTPUTDIR) && git reset --hard
+	$(PELICAN) $(INPUTDIR) -o $(LIVEOUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	cd $(LIVEOUTPUTDIR) && git add * && git commit -m 'update-html' -a && git push origin gh-pages
+	git commit -m 'update output' -a && git push 
