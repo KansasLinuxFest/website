@@ -18,7 +18,8 @@ Over 200 attendees are set to meet at the 1st annual Kansas Linux Fest for a wee
 
 There will be over twenty presenters giving technical presentations and hands-on workshops throughout the conference. Presenters include Dave Lester, Twitter's open source advocate, Frank Wiles, Revolution Systems, and Hal Gottfried, Open Hardware Group Kansas City CCCKC. Alan Robertson of Assimilation Systems will be presenting on an open source network security system. Oracle's MySQL community manager, Dave Stokes, will be presenting two technical talks on MySQL, a popular relational database. Researchers from KU and K-State and Wichita State University will be presenting as well as Linux User Groups in Wichita and Omaha. Presentations on mobile phone security and open source phone hardware as well as system and cloud security are planned.
 
-The full schedule and speakers directory can be found at the website
+The conference will run from 9 am to 6pm on Saturday and from 12am to 6 pm on
+Sunday with a breakfast event in planning from 9 to 19. The full schedule and speakers directory can be found at the website
 http://www.kansaslinuxfest.us/pages/schedule.html and
 http://www.kansaslinuxfest.us/pages/speakers.html. Sponsors and still welcome
 and if you would be interested in supporting the event please find the contact
