@@ -24,7 +24,7 @@ Sunday, March 22nd
 
 [1031 New Hampshire St](http://www.openstreetmap.org/node/2864344834)
 
-[macelis](www.macelis.com)
+[macelis](http://www.macelis.com)
 
 Full Breakfast Buffet
 - Pancakes
