@@ -33,3 +33,5 @@ cache/
 pelican.pid srv.pid
 
 /hide/*
+/content/images/calendar_2015-03-21_2015-03-23.pdf
+/content/images/RackspaceInvite.txt
