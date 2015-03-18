@@ -14,8 +14,7 @@ Join us for a full breakfast buffet open to all attendees and hear from Rackspac
 We’ll be talking all things Linux, Apache, MySQL, Chef, Ansible, SaltStack and Hosting.
 https://twitter.com/alex_juarez
 
-Register here, limited to max 70 people.
-(http://www.eventbrite.com/e/kansas-linux-fest-2015-tickets-15514601591)
+[Register here, limited to max 70 people.](http://www.eventbrite.com/e/kansas-linux-fest-2015-tickets-15514601591)
 
 Full Breakfast Buffet
 
@@ -35,7 +34,7 @@ Full Breakfast Buffet
 - Fruit Salad
 - Scrambled Eggs or Quiche
 
-![Poster](/images/RackspaceInvite.png =1024x)
+<img src=/images/RackspaceInvite.png width=760 alt=flyer></img>
 [pdf](/images/RackspaceInvite.pdf)
 
 
