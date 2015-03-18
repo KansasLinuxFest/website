@@ -7,12 +7,11 @@ keywords : Breakfast, Calendar, Schedule
 #Eat and Greet
 Kansas Linux Fest
 
-Sponsored by Rackspace
-http://rackspace.com
+Sponsored by [Rackspace](http://rackspace.com)
 
 Join us for a full breakfast buffet open to all attendees and hear from Rackspace Principal Engineer Alex Juarez.
 We’ll be talking all things Linux, Apache, MySQL, Chef, Ansible, SaltStack and Hosting.
-https://twitter.com/alex_juarez
+[@alex_juarez](https://twitter.com/alex_juarez)
 
 [Register here, limited to max 70 people.](http://www.eventbrite.com/e/kansas-linux-fest-2015-tickets-15514601591)
 
