@@ -14,11 +14,11 @@ keywords : Sponsors
 
 # Rackspace
 [Rackspace](http://rackspace.com)
-![](http://caa48e96f11ddd896e56-cbd62a0ad7e2d388825529106f960d1e.r78.cf2.rackcdn.com/RackspaceLogoManagedCloudLogo.jpg)
+![](http://caa48e96f11ddd896e56-cbd62a0ad7e2d388825529106f960d1e.r78.cf2.rackcdn.com/RackspaceLogoManagedCloudLogo400w.jpg)
 
 # Wicked Broadband
 [Wicked Broadband](http://www.lawrencefreenet.org/index.php)
-![](http://www.lawrencefreenet.org/images/wireless-internet-boy.jpg_
+![](http://www.lawrencefreenet.org/images/wireless-internet-boy.jpg)
 
 
 [TOC]
