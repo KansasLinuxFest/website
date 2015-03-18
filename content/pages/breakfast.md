@@ -11,7 +11,7 @@ Sponsored by [Rackspace](http://rackspace.com)
 
 Join us for a full breakfast buffet open to all attendees and hear from Rackspace Principal Engineer Alex Juarez.
 We’ll be talking all things Linux, Apache, MySQL, Chef, Ansible, SaltStack and Hosting.
-[@alex_juarez](https://twitter.com/alex_juarez)
+[@mralexjuarez](https://twitter.com/mralexjuarez)
 
 [Register here, limited to max 70 people.](http://www.eventbrite.com/e/kansas-linux-fest-2015-tickets-15514601591)
 
