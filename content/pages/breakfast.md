@@ -1,6 +1,6 @@
-Title: Sunday Breakfast Eat and Greet
+Title: Breakfast
 Date: 2015-03-22 09:00
-subtitle: Sponsored by Rackspace
+subtitle: Eat and Greet Sponsored by Rackspace
 modified : 2015-03-22 11:00
 keywords : Breakfast, Calendar, Schedule
 
