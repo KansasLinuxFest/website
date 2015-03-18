@@ -1,8 +1,10 @@
-Title: Media
+Title: Media and Press
 Date: 2015-03-05 05:00
 Category: Main
 
 [TOC]
+
+See the press release <{filename}/press.md>`_
 
 # Contributions
 
