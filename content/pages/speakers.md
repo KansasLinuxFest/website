@@ -4,6 +4,8 @@ Category: Main
 
 [TOC]
 
+See also the page on [lanyrd.com](http://lanyrd.com/2015/klf15/)
+
 ### Fifty OneFifty
 kansas based hacker/podcaster/linux guy
 "How to Get Yourself On an Open Source Podcast"
@@ -56,9 +58,6 @@ I'd like one of the 1 hour slots if possible.
 ### Andrew Gill
 Haskell
 KU
-
-### Joe Longstreet
-Fart Charade: The usefulness of uselessness
 
 ### Michael Goetz
 Manager, Solutions Engineering
