@@ -3,6 +3,9 @@ Date: 2014-10-22 05:00
 Category: Main
 
 [TOC]
+# printable
+[PDF](/images/calendar_2015-03-21_2015-03-23.pdf)
+![PNG](/images/calendar_2015-03-21_2015-03-23.png)
 
 # Calendar
 The schedule is hosted on http://lanyrd.com/2015/klf15/schedule/
@@ -24,3 +27,4 @@ The schedule is hosted on http://lanyrd.com/2015/klf15/schedule/
 
 <!-- Add this to the end of body -->
 <script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
+
