@@ -207,6 +207,26 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		background: #C74451;
 		color: #fff;
 		text-shadow: none !important;
+		-webkit-animation: ani-active-menu-item 0.5s;
+		animation: ani-active-menu-item 0.5s;
+	}
+	
+	@-webkit-keyframes ani-active-menu-item {
+		0%	{
+			background: #000305;
+		}
+		100%	{
+			background: #C74451;
+		}
+	}
+	
+	@keyframes ani-active-menu-item {
+		0%	{
+			background: #000305;
+		}
+		100%	{
+			background: #C74451;
+		}
 	}
 	
 	#banner nav li:first-child a {
